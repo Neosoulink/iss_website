@@ -1,0 +1,4 @@
+AuthName "Page d'inclusion protégée"
+AuthType Basic
+AuthUserFile "E:\Programmes\wamp64\www\Evo apps\Projects\Iss\Iss_WebSite_Revue\pages\include\.htpasswd"
+Require valid-user
